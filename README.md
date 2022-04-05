@@ -1,4 +1,4 @@
 # Getting Started with Create React App
-Giống mấy cái App lắp râu
+Giống mấy cái App lắp gắn râu, gắn tóc
 
 
